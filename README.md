@@ -52,16 +52,6 @@ visualizations/: Plots and charts output
 
 README.md: Project documentation
 
-Individual Contributions
-Aadarsh Kumar: Theory, architecture, training flow, pseudocode
-
-Ashutosh Swain: Performance evaluation, comparisons, visualizations
-
-Shibanshu Mohanty: Dataset selection, experimental design, preprocessing
-
-Priyanshu Kumar Sahoo: Visualization generation and activation functions
-
-Divyanshu Yadav: Applications, abstract, conclusion, formatting
 
 References
 Huang, G.-B., Zhu, Q.-Y., Siew, C.-K. (2006). Extreme learning machine: theory and applications. Neurocomputing.
